@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+section > div > h2 {
+    color: blue;
+}
+div > div > h2 + h2  {
+    color: aqua;
+}
+p {
+    color: brown;
+}
+section > h1  {
+    color: chartreuse;
+}
+.first {
+    color: darkmagenta;
+}
+div + h2 ~ h2{
+    color: darkolivegreen;
+}
+.two{ 
+    color: black;
+}
+#three{
+    color: black;
+}
+#four{
+    color: black;
+}
+div + p + div + div > div > h2 + h2 {
+    color: blueviolet;
+}

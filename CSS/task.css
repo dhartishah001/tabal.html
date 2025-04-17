@@ -1,0 +1,39 @@
+.Paragraph with specific font styles
+.styled-paragraph {
+    font-family: serif;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+  }
+
+  .Heading styled
+  h2 {
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+  }
+
+  .Paragraph with indent, spacing
+  .spaced-paragraph {
+    text-indent: 40px;
+    letter-spacing: 3px;
+    word-spacing: 10px;
+  }
+
+  .Using font shorthand
+  .shorthand-font {
+    font: italic bold 18px/1.5 'Times New Roman', serif;
+  }
+
+  .Experiment with line-height
+  .line-height-example {
+    line-height: 1;
+  }
+
+  .line-height-example.tall {
+    line-height: 2;
+  }
+
+  .line-height-example.extra-tall {
+    line-height: 3;
+  }

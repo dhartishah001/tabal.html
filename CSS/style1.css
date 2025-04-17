@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.background{
+    background-image: url(https://i.dawn.com/large/2020/06/5ef44ab9bf183.jpg);
+    background-attachment: fixed;
+    background-color: azure;
+    background-size: 400px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+    background-position-x: center;
+    background-attachment: fixed;
+    background-position-y: top;
+    background-position-y: center;
+    background-origin: border-box;
+    border: dotted 10px;
+}
+
+
+
+
+ 
